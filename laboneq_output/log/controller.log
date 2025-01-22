@@ -1,0 +1,42 @@
+2025.01.17 23:01:59.592 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.17 23:01:59.594 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.17 23:01:59.594 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.17 23:01:59.595 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at localhost:8004
+2025.01.17 23:01:59.597 | laboneq.controller.devices.device_collection  | INFO   Configuring clock sources
+2025.01.17 23:01:59.598 | laboneq.controller.devices.device_collection  | INFO   Clock sources configured
+2025.01.18 12:24:43.875 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.18 12:24:43.876 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.18 12:24:43.877 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.18 12:24:43.877 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at localhost:8004
+2025.01.18 12:24:43.878 | laboneq.controller.devices.device_collection  | INFO   Configuring clock sources
+2025.01.18 12:24:43.879 | laboneq.controller.devices.device_collection  | INFO   Clock sources configured
+2025.01.18 12:43:56.046 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.18 12:43:56.047 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.18 12:43:56.047 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8006
+2025.01.18 12:43:56.048 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at localhost:8006
+2025.01.18 12:43:56.050 | laboneq.controller.devices.device_collection  | INFO   Configuring clock sources
+2025.01.18 12:43:56.050 | laboneq.controller.devices.device_collection  | INFO   Clock sources configured
+2025.01.18 12:44:00.208 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.18 12:44:00.210 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.18 12:44:00.211 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.18 12:44:00.212 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at localhost:8004
+2025.01.18 12:44:00.215 | laboneq.controller.devices.device_collection  | INFO   Configuring clock sources
+2025.01.18 12:44:00.216 | laboneq.controller.devices.device_collection  | INFO   Clock sources configured
+2025.01.18 12:44:16.339 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.18 12:44:16.340 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.18 12:44:16.341 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.18 12:44:16.342 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at localhost:8004
+2025.01.18 12:44:16.343 | laboneq.controller.devices.device_collection  | INFO   Configuring clock sources
+2025.01.18 12:44:16.344 | laboneq.controller.devices.device_collection  | INFO   Clock sources configured
+2025.01.18 12:44:57.872 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.18 12:44:57.873 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.18 12:44:57.873 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.18 12:45:30.501 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.18 12:45:30.502 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.18 12:45:30.502 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.20 16:55:50.812 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\QEL\Desktop\py\SHFQC\laboneq_output\log
+2025.01.20 16:55:50.812 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.2.0
+2025.01.20 16:55:50.813 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at localhost:8004
+2025.01.20 16:55:50.813 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at localhost:8004
+2025.01.20 16:55:50.815 | laboneq.controller.devices.device_collection  | INFO   Configuring clock sources
+2025.01.20 16:55:50.815 | laboneq.controller.devices.device_collection  | INFO   Clock sources configured
