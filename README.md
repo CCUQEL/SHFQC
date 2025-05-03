@@ -1,6 +1,6 @@
 # SHFQC tool
 
-**Kits for using SHFQC, developed by CCU-QEL Neuro Sama :)**
+**Kits for using SHFQC, developed by CCU-QEL Neuro Sama :(**
 
 ## Using ccukit
 
