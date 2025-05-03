@@ -1,6 +1,6 @@
 # SHFQC tool
 
-**Kits for using SHFQC, developed by CCU-QEL Neuro Sama :).**
+**Kits for using SHFQC, developed by CCU-QEL Neuro Sama :)**
 
 ## Using ccukit
 
@@ -9,7 +9,7 @@ It is recommended to clone the repository or download as zip onto local device f
 ```sh
 git clone https://github.com/CCUQEL/SHFQC.git
 ```
-
+And please see `use_shfqc_example.ipynb`.
 
 ## Importing Examples
 
@@ -26,6 +26,7 @@ the workspace we used is `C:\Users\user\Desktop\py`, we use VScode to open this 
 ## sub-modules overview
 - `shfqc`: Contains SHFQC class for the control object.
 - `savekit`: Contains tools to save and read measurement data.
+- `use_shfqc_example`: Contains usage example.
 
 
 > [!NOTE]  
